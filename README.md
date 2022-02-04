@@ -28,7 +28,7 @@ Upon completion of the course, you will be able to:
 | Topic                                     | Tasks                              | Notebook                           |
 |-------------------------------------------|------------------------------------|------------------------------------|
 | **1:** Introduction to Legal Analytics    | [Description](tasks/tutorial1.md)  | /                                  |
-| **2:** Data-driven research design        | [Description](tasks/tutorial2.md)  | /                                  |
+| **2:** Data-driven research design        | [Description](tasks/tutorial2.md)  | [Python Fundamanetals](notebooks/Tutorial_2_1.ipynb)                                |
 | **3:** Data cleaning                      | [Description](tasks/tutorial3.md)  | [ipynb](notebooks/tutorial3.ipynb) |
 | **4:** Numerical exploratory data analysis| [Description](tasks/tutorial4.md)  | [ipynb](notebooks/tutorial4.ipynb) |
 | **5:** Visual exploratory data analysis   | [Description](tasks/tutorial5.md)  | [ipynb](notebooks/tutorial5.ipynb) |
