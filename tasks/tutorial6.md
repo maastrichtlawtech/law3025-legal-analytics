@@ -1,3 +1,3 @@
-# Tutorial 6: TBD
+# Tutorial 6: Open Lab
 
 (To be announced later...)
