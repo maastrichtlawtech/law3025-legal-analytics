@@ -1,4 +1,4 @@
-# 👋 Welcome to the Legal Analytics teaching materials!  
+# LAW3025 - Legal Analytics
 
 ### Course description
 
@@ -32,4 +32,4 @@ Upon completion of the course, you will be able to:
 | **3:** Data cleaning                      | [Description](tasks/tutorial3.md)  | [ipynb](notebooks/tutorial3.ipynb) |
 | **4:** Numerical exploratory data analysis| [Description](tasks/tutorial4.md)  | [ipynb](notebooks/tutorial4.ipynb) |
 | **5:** Visual exploratory data analysis   | [Description](tasks/tutorial5.md)  | [ipynb](notebooks/tutorial5.ipynb) |
-| **6:** TBD                                | [Description](tasks/tutorial6.md)  | /                                  |
+| **6:** Open Lab                           | [Description](tasks/tutorial6.md)  | /                                  |
