@@ -139,15 +139,3 @@ dmypy.json
 
 # VScode
 .vscode/
-
-# Data files
-*.csv
-*.txt
-*.tsv
-*.pdf
-*.pkl
-*.bin
-*.gz
-core.*
-*.ckpt 
-events.out.tfevents.*
