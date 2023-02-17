@@ -11,7 +11,6 @@ In this course, you will learn about the following major topics:
 * Data and the Data Science Pipeline
 * Exploratory Data Analysis
 * Visualization
-* Statistical Inference
 
 ### Course objectives
 
