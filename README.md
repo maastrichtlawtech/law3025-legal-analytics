@@ -26,9 +26,9 @@ Upon completion of the course, you will be able to:
 
 | Topic                                     | Task                   |
 |-------------------------------------------|------------------------------------|
-| **1:** Introduction to Legal Analytics    | Read [description](tutorial1.md) |
-| **2:** Data-driven research design        | Download [notebook](tutorial2.ipynb) |
-| **3:** Data cleaning                      | Download [notebook](tutorial3.ipynb) |
-| **4:** Numerical exploratory data analysis| Download [notebook](tutorial4.ipynb) |
-| **5:** Visual exploratory data analysis   | Download [notebook](tutorial5.ipynb) |
+| **1:** Introduction to Legal Analytics    | Read and complete [task](tutorial1.md) |
+| **2:** Data-driven research design        | Download and complete [notebook](tutorial2.ipynb) |
+| **3:** Data cleaning                      | Download and complete [notebook](tutorial3.ipynb) |
+| **4:** Numerical exploratory data analysis| Download and complete [notebook](tutorial4.ipynb) |
+| **5:** Visual exploratory data analysis   | Download and complete [notebook](tutorial5.ipynb) |
 | **6:** Open Lab                           | TBA |
