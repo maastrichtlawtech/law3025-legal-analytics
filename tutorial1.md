@@ -1,4 +1,4 @@
-# Tutorial 1: Introduction to Legal Analytics
+# Legal Analytics (LAW3025) - Tutorial 1: 'Introduction to Legal Analytics'
 
 ### 1.1. Legal analytics as a service
 
