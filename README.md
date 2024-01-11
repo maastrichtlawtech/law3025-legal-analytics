@@ -1,5 +1,7 @@
 # LAW3025 - Legal Analytics 🔎📜
 
+![Legal Analytics Course Header](img/header.png)
+
 ### Course description 📚
 
 The world is increasingly dominated by information technology and data. Economic and social relations are digitized. Technological innovation is already disrupting the practice of law and the legal professions. In Legal Analytics, you will learn how to use legal information as data and apply quantitative methods to law. The computational approach to law of this course provides an understanding about how data science techniques can help improve our understanding of the law and may help design innovative legal services and legal solutions.
