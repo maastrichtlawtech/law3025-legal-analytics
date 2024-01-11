@@ -1,6 +1,6 @@
-# LAW3025 - Legal Analytics
+# LAW3025 - Legal Analytics 🔎📜
 
-### Course description
+### Course description 📚
 
 The world is increasingly dominated by information technology and data. Economic and social relations are digitized. Technological innovation is already disrupting the practice of law and the legal professions. In Legal Analytics, you will learn how to use legal information as data and apply quantitative methods to law. The computational approach to law of this course provides an understanding about how data science techniques can help improve our understanding of the law and may help design innovative legal services and legal solutions.
 
@@ -12,7 +12,7 @@ In this course, you will learn about the following major topics:
 * Exploratory Data Analysis
 * Visualization
 
-### Course objectives
+### Course objectives 🎯
 
 Upon completion of the course, you will be able to:
 
@@ -22,7 +22,7 @@ Upon completion of the course, you will be able to:
 * Perform quantitative and visual exploratory (legal) data analysis in Python
 * Communicate (written and oral) and visualize (legal) data and results.
 
-### Tutorials
+### Tutorial tasks 📝
 
 | Topic                                     | Task                   |
 |-------------------------------------------|------------------------------------|
