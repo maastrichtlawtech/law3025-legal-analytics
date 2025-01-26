@@ -33,4 +33,5 @@ Upon completion of the course, you will be able to:
 | **3:** Data cleaning                      | Download and complete [notebook](tutorial3.ipynb) |
 | **4:** Numerical exploratory data analysis| Download and complete [notebook](tutorial4.ipynb) |
 | **5:** Visual exploratory data analysis   | Download and complete [notebook](tutorial5.ipynb) |
-| **6/7:** Q&A abd code presentation        | Bring your questions and be prepared to present your code |
+| **6/7:** Q&A and code presentation        | Bring your questions and be prepared to present your code |
+
