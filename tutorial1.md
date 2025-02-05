@@ -6,7 +6,7 @@ In [*The End of Lawyers*](https://maastrichtuniversity.on.worldcat.org/oclc/6886
 
 Some law professors have indeed started their own firms offering legal analytics services. One US example is [LexPredict](https://www.lexpredict.com/), a start-up by Prof [Daniel Katz](http://www.danielmartinkatz.com/) and Michael Bommarito (also the current CEO of LexPredict). In Canada, Prof [Benjamin Alarie](https://www.law.utoronto.ca/faculty-staff/full-time-faculty/benjamin-alarie) co-founded [Blue J Legal](https://www.bluejlegal.com/). 
 
-Review these two examples and search for at least three other firms or companies that provide legal analytics services. Concisely describe what services they render and present your findings to the class.. This exercise will give you a good idea of existing use cases to which you can apply the learning outcomes of this course in your future careers.
+Review these two examples and search for at least three other firms or companies that provide legal analytics services. Concisely describe what services they render and present your findings to the class. This exercise will give you a good idea of existing use cases to which you can apply the learning outcomes of this course in your future careers.
 
 
 ### 1.2. The desirability of legal analytics
