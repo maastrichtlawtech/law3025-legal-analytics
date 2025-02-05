@@ -8,6 +8,12 @@ Some law professors have indeed started their own firms offering legal analytics
 
 Review these two examples and search for at least three other firms or companies that provide legal analytics services. Concisely describe what services they render and present your findings to the class. This exercise will give you a good idea of existing use cases to which you can apply the learning outcomes of this course in your future careers.
 
+For each of these, find answers to the following questions:
+- What they do
+- Where they are from
+- What technique(s) they use (AI? A specific type of AI? Something else?)
+- What evidence they provide that their service works
+- What it costs
 
 ### 1.2. The desirability of legal analytics
 
