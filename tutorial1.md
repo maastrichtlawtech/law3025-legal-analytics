@@ -10,7 +10,7 @@ Review these two examples and search for at least three other firms or companies
 
 For each of these, find answers to the following questions:
 - What do they do? What field of law?
-- Where are from?
+- Where are they from?
 - What techniques do they use? AI? A specific type of AI? Something else?
 - What evidence do they provide that their service works?
 - What does it costs?
