@@ -14,6 +14,7 @@ For each of these, find answers to the following questions:
 - What technique(s) they use (AI? A specific type of AI? Something else?)
 - What evidence they provide that their service works
 - What it costs
+- Anything else?
 
 ### 1.2. The desirability of legal analytics
 
